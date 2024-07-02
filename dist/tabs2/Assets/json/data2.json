@@ -1,0 +1,17 @@
+[
+  {
+    "time": "05:07 PM",
+    "text": "Period(1)",
+    "music": "Handbell.mp3",
+    "days": [
+      "Sun",
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
+    "switch_state": true
+  }
+]
