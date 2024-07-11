@@ -1,52 +1,7 @@
 [
   {
-    "time": "06:08 PM",
-    "text": "Period(3)",
-    "music": "Handbell.mp3",
-    "days": [
-      "Sun",
-      "Mon",
-      "Tue",
-      "Wed",
-      "Thu",
-      "Fri",
-      "Sat"
-    ],
-    "switch_state": true
-  },
-  {
-    "time": "06:25 PM",
+    "time": "01:53 AM",
     "text": "Period(1)",
-    "music": "Handbell.mp3",
-    "days": [
-      "Sun",
-      "Mon",
-      "Tue",
-      "Wed",
-      "Thu",
-      "Fri",
-      "Sat"
-    ],
-    "switch_state": true
-  },
-  {
-    "time": "06:25 PM",
-    "text": "Period(2)",
-    "music": "Handbell.mp3",
-    "days": [
-      "Sun",
-      "Mon",
-      "Tue",
-      "Wed",
-      "Thu",
-      "Fri",
-      "Sat"
-    ],
-    "switch_state": true
-  },
-  {
-    "time": "06:25 PM",
-    "text": "Period(4)",
     "music": "Handbell.mp3",
     "days": [
       "Sun",
